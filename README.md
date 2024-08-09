@@ -1,6 +1,6 @@
 ## Thesis title: Influence of the anisotropy of the medium's permeability on advancing the freshwater-dirty water interface
 
-Please click here to view the [PDF]
+This master's thesis was written in French. Please click here to view the [PDF](https://github.com/RegisKonan/UFHB_master_Fluid_mechanics/blob/de3010f678c0c415a31febce928c854c6a36ac49/Memoire_Djaha_Regis.pdf). 
 
 ### Abstract
 

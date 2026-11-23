@@ -23,7 +23,7 @@ Classical results assume an **isotropic** aquifer, with the same permeability in
 Groundwater flow in a vertical 2D section $(x, z)$ of an unconfined aquifer follows a storage equation coupled with Darcy's law:
 
 $$
-S\,\frac{\partial h}{\partial t} + \operatorname{div}(\mathbf{U}) = Q^A - Q^P,
+S\,\frac{\partial h}{\partial t} + \nabla \cdot \mathbf{U} = Q^A - Q^P,
 \qquad
 \mathbf{U} = -\mathbf{K}\,\nabla h
 $$
